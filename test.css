@@ -1,0 +1,9 @@
+.col1 {
+    background-color: rebeccapurple;
+}
+.col2{background-color: blue;}
+.col3{background-color: orange;}
+
+.col2 {
+    min-height: 100vh;
+}
